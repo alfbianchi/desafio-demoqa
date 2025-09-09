@@ -1,0 +1,1 @@
+<div class="form-file"><label for="uploadPicture" class="form-file-label">Select picture</label><input id="uploadPicture" type="file" lang="en" class="form-control-file"></div>
